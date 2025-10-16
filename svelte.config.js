@@ -10,6 +10,13 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter({
 			// See below for an explanation of these options
+			config: undefined,
+			platformProxy: {
+				configPath: undefined,
+				environment: undefined,
+				persist: undefined
+			},
+			fallback: 'plaintext',
 			routes: {
 				include: ['/*'],
 				exclude: ['<all>']
