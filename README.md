@@ -1,2 +1,2 @@
 # zrn-net
-ZRN Pages
+im omni ing it rn. bro. frfr.
