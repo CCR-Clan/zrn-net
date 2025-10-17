@@ -2,240 +2,24 @@
     "players": [
         {
             "id": 1,
-            "name": "CCR Astra",
+            "name": "Exzo",
             "role": "Leader",
-            "description": "Two Faces, One Name.",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Diamond 1",
-                    "peak": "Unreal",
-                    "BR Rank": "Unranked",
-                    "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Diamond 1",
-                    "ZB Reload Rank": "Unranked",
-                    "Ballistic": "Unranked",
-                    "Peak Rank": "Unreal",
-                    "Clan Rank": "#1",
-                    "clankRank": "#1"
-                },
-                {
-                    "game": "Overwatch 2",
-                    "rank": "Unranked",
-                    "Tank": "Unranked",
-                    "Damage": "Unranked",
-                    "Support": "Unranked",
-                    "Open Queue": "Unranked",
-                    "peak": "Platinum 5",
-                    "Peak Rank": "Platinum 5",
-                    "Clan Rank": "#1",
-                    "clankRank": "#1",
-                    "Device": "Console"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Email",
-                    "link": "mailto:astra@ccrclan.org"
-                },
-                {
-                    "name": "Github",
-                    "link": "https://github.com/CCRAstra"
-                },
-                {
-                    "name": "Discord",
-                    "link": "https://discord.com/users/1013379393629982762"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "https://www.tiktok.com/@ccrastra"
-                },
-                {
-                    "name": "Spotify",
-                    "link": "https://open.spotify.com/user/21kmliudiu3gu4p6kxdmxtzhy?si=8505a0d6d6854ae6"
-                }
-            ],
-            "profileImage": "https://iili.io/F4ZNgyB.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Cattn",
-            "role": "Co-Leader",
-            "description": "Cattn is a Co-Leader of CCR! He's making this website rn...",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unreal",
-                    "peak": "Unreal",
-                    "BR Rank": "Unranked",
-                    "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Platinum 1",
-                    "ZB Reload Rank": "Unranked",
-                    "Ballistic": "Gold 1",
-                    "Peak Rank": "Unreal",
-                    "Clan Rank": "#3",
-                    "clankRank": "#3"
-                },
-                {
-                    "game": "Overwatch 2",
-                    "rank": "Unranked",
-                    "Tank": "Unranked",
-                    "Damage": "Unranked",
-                    "Support": "Unranked",
-                    "Open Queue": "Unranked",
-                    "peak": "Unranked",
-                    "Peak Rank": "Unranked",
-                    "Clan Rank": "#2",
-                    "clankRank": "#2",
-                    "Device": "PC"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Email",
-                    "link": "mailto:cattn@ccrclan.org"
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/523927057722376204/a2ede5d56215b8ad0edd0499f4de3c19.webp"
-        },
-        {
-            "id": 3,
-            "name": "CCR Azrael",
-            "role": "Co-Leader",
-            "description": "CCR Azrael is a rambunctious Co-Leader of CCR, very involved but not too active.",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unranked",
-                    "peak": "Diamond 2",
-                    "BR Rank": "Unranked",
-                    "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Unranked",
-                    "ZB Reload Rank": "Unranked",
-                    "Ballistic": "Unranked",
-                    "Peak Rank": "Diamond 2",
-                    "Clan Rank": "#5",
-                    "clankRank": "#5"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Email",
-                    "link": "mailto:azrael@ccrclan.org"
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/1330715541245132804/d6a747aceb9f4422ffc0cf7356e950f7.webp?size=1024"
-        },
-        {
-            "id": 4,
-            "name": "CCR Cactus",
-            "role": "Admin",
-            "description": "ZB player and CCR's very own prickly plant",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Platinum 3",
-                    "peak": "Champion",
-                    "BR Rank": "Unranked",
-                    "ZB Rank": "Bronze 2",
-                    "BR Reload Rank": "Platinum 3",
-                    "ZB Reload Rank": "Silver 3",
-                    "Ballistic": "Unranked",
-                    "Peak Rank": "Champion",
-                    "Clan Rank": "#2",
-                    "clankRank": "#2"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Email",
-                    "link": "mailto:cactus@ccrclan.org"
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/813168384266469426/8c4aa76ec678eb14ae27074df5255309.webp?size=1024&format=webp&width=768&height=768"
-        },
-        {
-            "id": 5,
-            "name": "CCR Rogue",
-            "role": "Member",
-            "description": "Formerly 'CCR Blade'",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unknown",
-                    "peak": "Platinum 1",
-                    "BR Rank": "Unranked",
-                    "ZB Rank": "Unranked",
-                    "BR Reload Rank": "Bronze 2",
-                    "ZB Reload Rank": "Unranked",
-                    "Ballistic": "Unranked",
-                    "Peak Rank": "Platinum 1",
-                    "Clan Rank": "#4",
-                    "clankRank": "#4"
-                }
-            ],
+            "description": "based asf",
             "socials": [
                 {
                     "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
-            "profileImage": "https://cdn.discordapp.com/avatars/1180329702162960516/754acf4977f597ac717371112b245d68.webp"
+            "profileImage": "https://i.imgur.com/Stn36Lo.jpg"
         },
         {
-            "id": 7,
-            "name": "CCR Bandoe",
-            "role": "Member",
-            "description": "Competitive Call of Duty Player",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unknown",
-                    "peak": "Unknown",
-                    "BR Rank": "Unknown",
-                    "ZB Rank": "Unknown",
-                    "BR Reload Rank": "Unknown",
-                    "ZB Reload Rank": "Unknown",
-                    "Ballistic": "Unknown",
-                    "Peak Rank": "Unknown",
-                    "Clan Rank": "#6",
-                    "clankRank": "#6"
-                }
-            ],
-            "socials": [
-                {
-                    "name": "Instagram",
-                    "link": "https://www.instagram.com/ccr_bandoe_/"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "https://www.tiktok.com/@goofy_13_colonie"
-                }
-            ],
-            "profileImage": "https://cdn.discordapp.com/avatars/1162273567724015649/027220287fd665ab9394939fad23fd51.webp?size=1024&format=webp&width=768&height=768"
-        },
-        {
-            "id": 8,
-            "name": "CCR Aetherix",
-            "role": "Member",
+            "id": 2,
+            "name": "Dusty",
+            "role": "Co-Leader",
             "description": "No Description Set",
-            "ranks": [
-                {
-                    "game": "Fortnite",
-                    "rank": "Unknown",
-                    "peak": "Unknown",
-                    "BR Rank": "Unknown",
-                    "ZB Rank": "Unknown",
-                    "BR Reload Rank": "Unknown",
-                    "ZB Reload Rank": "Unknown",
-                    "Ballistic": "Unknown",
-                    "Peak Rank": "Unknown",
-                    "Clan Rank": "#10",
-                    "clankRank": "#10"
-                }
-            ],
             "socials": [
-                 {
+                {
                     "name": "No Socials Linked",
                     "link": "#"
                 }
@@ -243,25 +27,88 @@
             "profileImage": "https://picsum.photos/200/300?grayscale"
         },
         {
-            "id": 9,
-            "name": "Placeholder",
+            "id": 3,
+            "name": "ZRN Sosa",
             "role": "Member",
             "description": "No Description Set",
-            "ranks": [
+            "socials": [
                 {
-                    "game": "Fortnite",
-                    "rank": "Unknown",
-                    "peak": "Unknown",
-                    "BR Rank": "Unknown",
-                    "ZB Rank": "Unknown",
-                    "BR Reload Rank": "Unknown",
-                    "ZB Reload Rank": "Unknown",
-                    "Ballistic": "Unknown",
-                    "Peak Rank": "Unknown",
-                    "Clan Rank": "#10",
-                    "clankRank": "#10"
+                    "name": "No Socials Linked",
+                    "link": "#"
                 }
             ],
+            "profileImage": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+            "id": 4,
+            "name": "Fortex",
+            "role": "Memeber",
+            "description": "Man of Miracles",
+            "socials": [
+                {
+                    "name": "Website",
+                    "link": "https://lafortex.com"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/601JeuU.jpg"
+        },
+        {
+            "id": 5,
+            "name": "cincoo",
+            "role": "Member",
+            "description": "Hood Hero",
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "https://discord.com/users/1365830032995647548"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/eM9pEa2.jpg"
+        },
+        {
+            "id": 6,
+            "name": "ZRN Winter",
+            "role": "Member",
+            "description": "Matthew 23:12 'Whoever exalts himself will be humbled, and whoever humbles himself will be exalted'",
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "https://discord.com/users/779447754308452363"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/im53a2g.png"
+        },
+        {
+            "id": 7,
+            "name": "Solo",
+            "role": "Member",
+            "description": "No Description Set",
+            "socials": [
+                {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/50p2vNe.gif"
+        },
+        {
+            "id": 8,
+            "name": "Cxshcarti",
+            "role": "Member",
+            "description": "Young Vamp killin it",
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "https://discord.com/users/1284471755213115423"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/1g1sFDU.png"
+        },
+        {
+            "id": 9,
+            "name": "Monty",
+            "role": "Member",
+            "description": "No Description Set",
             "socials": [
                 {
                     "name": "Discord",
