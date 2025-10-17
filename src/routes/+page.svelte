@@ -59,7 +59,7 @@
 		<div class="w-full max-w-3xl rounded-xl bg-background-tertiary p-8">
 			<h2 class="text-2xl font-bold text-gray-100 sm:text-3xl">About Us</h2>
 			<p class="mt-4 text-gray-400">
-				This is an Invite Only "Clan" that partakes in videogames. We have a series of games we take part in.
+				Zerion is a clan dedicated to a Fortnite Creative map created by Funteam called 'The Hood'.
 			</p>
 			<Button
 				href="https://discord.gg/mJGeqBs6Q5"
