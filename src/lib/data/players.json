@@ -16,7 +16,7 @@
         {
             "id": 2,
             "name": "Dusty",
-            "role": "Co-Leader",
+            "role": "Leader",
             "description": "No Description Set",
             "socials": [
                 {
@@ -42,7 +42,7 @@
         {
             "id": 4,
             "name": "Fortex",
-            "role": "Memeber",
+            "role": "Member",
             "description": "Man of Miracles",
             "socials": [
                 {
@@ -111,23 +111,58 @@
             "description": "No Description Set",
             "socials": [
                 {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
             "profileImage": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+            "id": 10,
+            "name": "Shaun2cool5678",
+            "role": "Member",
+            "description": "shaun2cool owns central",
+            "socials": [
+                {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/ESfaQki.png"
+        },
+        {
+            "id": 11,
+            "name": "Blue",
+            "role": "Member",
+            "description": "No Description Set",
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "https://discord.com/users/778061297412603955"
+                },
+                {
+                    "name": "TikTok",
+                    "link": "https://www.tiktok.com/@ype_myk?_t=ZP-90cLRjyiOqc&_r=1"
+                },
+                {
+                    "name": "Instagram",
+                    "link": "https://www.instagram.com/ype.myk?igsh=dWhvazl4bzdwMjV5&utm_source=qr"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/UiBHFPf.png"
+        },
+        {
+            "id": 13,
+            "name": "sleight",
+            "role": "Member",
+            "description": "No Description Set",
+            "socials": [
+                {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/muF5Nlq.png"
         }
     ]
 }
