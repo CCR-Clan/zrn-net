@@ -20,11 +20,11 @@
             "description": "No Description Set",
             "socials": [
                 {
-                    "name": "No Socials Linked",
-                    "link": "#"
+                    "name": "Twitch",
+                    "link": "https://www.twitch.tv/04bit16"
                 }
             ],
-            "profileImage": "https://picsum.photos/200/300?grayscale"
+            "profileImage": "https://i.imgur.com/b3ioSe9.png"
         },
         {
             "id": 3,
