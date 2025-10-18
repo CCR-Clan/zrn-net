@@ -28,7 +28,7 @@
         },
         {
             "id": 3,
-            "name": "ZRN Sosa",
+            "name": "Sosa",
             "role": "Member",
             "description": "No Description Set",
             "socials": [
@@ -41,16 +41,16 @@
         },
         {
             "id": 4,
-            "name": "Fortex",
+            "name": "Rexy",
             "role": "Member",
-            "description": "Man of Miracles",
+            "description": "I’m a dinosaur",
             "socials": [
                 {
-                    "name": "Website",
-                    "link": "https://lafortex.com"
+                    "name": "No Socials Linked",
+                    "link": "#"
                 }
             ],
-            "profileImage": "https://i.imgur.com/601JeuU.jpg"
+            "profileImage": "https://i.imgur.com/boMXkTV.png"
         },
         {
             "id": 5,
@@ -82,7 +82,7 @@
             "id": 7,
             "name": "Solo",
             "role": "Member",
-            "description": "No Description Set",
+            "description": "don’t hate, appreciate.",
             "socials": [
                 {
                     "name": "No Socials Linked",
@@ -106,19 +106,53 @@
         },
         {
             "id": 9,
-            "name": "Monty",
+            "name": "Null",
             "role": "Member",
-            "description": "No Description Set",
+            "description": "empty soul just vibing igs",
             "socials": [
                 {
                     "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
-            "profileImage": "https://picsum.photos/200/300?grayscale"
+            "profileImage": "https://i.imgur.com/tGB1StX.png"
         },
         {
             "id": 10,
+            "name": "Monty",
+            "role": "Member",
+            "description": "Matthew 23:12 'Whoever exalts himself will be humbled, and whoever humbles himself will be exalted'",
+            "socials": [
+                {
+                    "name": "Discord",
+                    "link": "https://discord.com/users/1002636912978305136"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/kWUvgNs.png"
+        },
+        {
+            "id": 11,
+            "name": "Lucky",
+            "role": "Member",
+            "description": "(Undefeated in the 1s)",
+            "socials": [
+                {
+                    "name": "TikTok",
+                    "link": "https://www.tiktok.com/@duec33k?_t=ZP-90cvT3jsE9u&_r=1"
+                },
+                {
+                    "name": "Instagram",
+                    "link": "https://www.instagram.com/mgn_slim?igsh=MWljYjNkdWZtMHM3dg%3D%3D&utm_source=qr"
+                },
+                {
+                    "name": "Youtube",
+                    "link": "https://youtube.com/@duec33k?si=au4DUsuMgFaf3xMl"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/pBUCCxn.jpg"
+        }
+        {
+            "id": 12,
             "name": "Shaun2cool5678",
             "role": "Member",
             "description": "shaun2cool owns central",
@@ -131,7 +165,7 @@
             "profileImage": "https://i.imgur.com/ESfaQki.png"
         },
         {
-            "id": 11,
+            "id": 13,
             "name": "Blue",
             "role": "Member",
             "description": "No Description Set",
@@ -152,7 +186,20 @@
             "profileImage": "https://i.imgur.com/UiBHFPf.png"
         },
         {
-            "id": 12,
+            "id": 14,
+            "name": "Fortex",
+            "role": "Member",
+            "description": "Man of Miracles",
+            "socials": [
+                {
+                    "name": "Website",
+                    "link": "https://lafortex.com"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/601JeuU.jpg"
+        },
+        {
+            "id": 15,
             "name": "sleight",
             "role": "Member",
             "description": "No Description Set",
@@ -163,6 +210,19 @@
                 }
             ],
             "profileImage": "https://i.imgur.com/muF5Nlq.png"
+        },
+        {
+            "id": 16,
+            "name": "Krissy",
+            "role": "Member",
+            "description": "Just here to have fun, keep it real, and enjoy the moments",
+            "socials": [
+                {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://i.imgur.com/BCCsSOM.jpg"
         }
     ]
 }
