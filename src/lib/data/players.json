@@ -106,16 +106,16 @@
         },
         {
             "id": 9,
-            "name": "Null",
+            "name": "Empty",
             "role": "Member",
-            "description": "empty soul just vibing igs",
+            "description": "Player Resigned.",
             "socials": [
                 {
                     "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
-            "profileImage": "https://i.imgur.com/tGB1StX.png"
+            "profileImage": ""
         },
         {
             "id": 10,
@@ -153,16 +153,16 @@
         },
         {
             "id": 12,
-            "name": "Shaun2cool5678",
+            "name": "Empty",
             "role": "Member",
-            "description": "shaun2cool owns central",
+            "description": "Player Resigned.",
             "socials": [
                 {
                     "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
-            "profileImage": "https://i.imgur.com/ESfaQki.png"
+            "profileImage": ""
         },
         {
             "id": 13,
